@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   welcome: {
-    color: '#0001'
+    color: '#0000'
   },
 });
 
