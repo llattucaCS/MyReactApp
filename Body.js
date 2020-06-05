@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
   caja2: {
     flex: 2,
     backgroundColor: '#90ee90',
-    alignItems: 'center',
+    alignItems: 'flex-start',
     justifyContent: 'center',
   },
   welcome: {
