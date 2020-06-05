@@ -7,11 +7,11 @@ class Footer extends Component{
     return (
       <View style={styles.caja3}>
         <Button 
-          title="Aumentar" 
+          title="Sumar" 
           onPress={this.props.sumar}
         />
         <Button 
-          title="Disminuir" 
+          title="Restar" 
           onPress={this.props.restar}
         />    
       </View>
